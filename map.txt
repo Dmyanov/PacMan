@@ -1,0 +1,25 @@
+xxxxxxxxxxxxxxxxxxxxxxxxx
+x***********x***********x
+x+xxxxxxx*x*x*x*xxxxxxx+x
+x***********x***********x
+x*xxx*xxxxx*x*xxxxx*xxx*x
+x*xxx*xxxxx*x*xxxxx*xxx*x
+x***********************x
+x*xx*x*xxxxxxxxxxx*x*xx*x
+x****x******x******x****x
+xxxx*xxxxxx*x*xxxxxx*xxxx
+   x*x*************x*x   
+xxxx*x*xxxxx xxxxx*x*xxxx
+    ***x         x***    
+xxxx*x*xxxxxxxxxxx*x*xxxx
+   x*****************x   
+xxxx*xx*xxxxxxxxx*xx*xxxx
+x***********x***********x
+x*xxx*xxxxx*x*xxxxx*xxx*x
+x+**x***************x**+x
+xxx*x*x*xxxxxxxxx*x*x*xxx
+x*****x****xxx****x*****x
+x*xxxxxx*x**x**x*xxxxxx*x
+x*****xx*xx*x*xx*xx*****x
+xxxxx***************xxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx
